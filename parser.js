@@ -1,8 +1,8 @@
 /**
  * This is the file where commands get parsed
  *
- * Some parts of this code are taken from the Pokémon Shfowdown server code, so
- * credits also go to Guangcong Luo and other Pokémon Showdown contributors.
+ * Some parts of this code are taken from the Pokémon Showdown server code, so
+ * credits also go to Guangcong Luo and other Pokémon Showdown contributors(devs).
  * https://github.com/Zarel/Pokemon-Showdown
  *
  * @license MIT license
